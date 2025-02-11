@@ -1,10 +1,13 @@
 # **Remotely (Remote Work Platform)** 
+<img width="1785" alt="image" src="https://github.com/user-attachments/assets/894889dc-cc1b-4616-a89c-fc117c0a8e88" />
+
 ## Live Demo 🚀
 Deployed on Vercel: https://remotely-platform.vercel.app/
 
 ## About the Project
 
-Remotely is a web application designed for remote job searchers and employers. Users can authenticate with GitHub, search for remote jobs, view job details, and post new job opportunities with ease.
+Remotely is a web application designed for remote job searchers and employers. Users can authenticate with GitHub, search for remote jobs, view job details, and post new job opportunities easily.
+The idea for this platform including logo, the color scheme, animations and overall visual identity, was shaped through by myself as combination of my own creativity and external learning resources.
 
 ## Features
 - **GitHub Authentication** – Allows users to sign in securely using your GitHub account implemented via Auth.js.
